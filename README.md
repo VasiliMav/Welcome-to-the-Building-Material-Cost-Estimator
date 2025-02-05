@@ -24,9 +24,13 @@ STEP 5. Optionally save project details to a file.
 FEATURES :
 
 ✅ Calculate Room/Rooms Area – Input room dimensions to get the total square footage.
+
 ✅ Select Flooring Material – Choose from wood, concrete, brick, or tiles, each with a different cost.
+
 ✅ Compute Total Cost – The program multiplies area by material cost.
+
 ✅ Save Project Details – Option to save calculations for future reference.
+
 
 LEARNING OBJECTIVES :
 

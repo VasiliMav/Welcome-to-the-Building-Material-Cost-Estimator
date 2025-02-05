@@ -9,9 +9,23 @@ This tool is a beginner-friendly way to learn Python by working on a simple, rea
 
 DESCRIPTION:
 
-This project is designed for students with an architectural background who are new to Python.
+This project is designed for students with an architectural background who are new to Python.🐍 
 Therefore it assumes that every student is an absolute beginner and is used to teach the fundamental concepts of Python through a hands on approach.
 In addition the project teaches Python fundamentals through an interactive exercise where users input room dimensions and select flooring materials.
+
+🎯 LEARNING OBJECTIVES :
+
+- By completing this project, students will:
+
+- Learn basic Python syntax.
+
+- Understand variables, data types, and functions.
+
+- Use conditional statements and loops.
+
+- Work with lists, tuples, and dictionaries.
+
+- Learn basic file handling (reading/writing files).
 
 
 STEP BY STEP PROCESS:
@@ -36,21 +50,6 @@ FEATURES :
 ✅ Save Project Details – Option to save calculations for future reference.
 
 
-LEARNING OBJECTIVES :
-
-By completing this project, students will:
-
-Learn basic Python syntax.
-
-Understand variables, data types, and functions.
-
-Use conditional statements and loops.
-
-Work with lists, tuples, and dictionaries.
-
-Learn basic file handling (reading/writing files).
-
-
 INSTRUCTIONS :
 
 - Run the Python script.
@@ -61,3 +60,8 @@ INSTRUCTIONS :
 
 - Decide if you want to save the project details.
 
+🎓 REFERENCES + ACKNOWLEDGEMENTS :
+
+https://github.com/MRAC-IAAC/learn-python-with-this-project/blob/main/PYTHON-PROJECT.md
+
+Marita Georganta) and Huanyu Li Instructors Creation of GitHub template: Marita Georganta - Robotic Sensing Expert Creation of MRAC-IAAC GitHub Structure: Huanyu Li - Robotic Researcher
